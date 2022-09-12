@@ -1,0 +1,14 @@
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.deps.json
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.runtimeconfig.json
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.runtimeconfig.dev.json
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.dll
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/bin/Debug/netcoreapp3.1/VariablesExercise.pdb
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csproj.AssemblyReference.cache
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfoInputs.cache
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.AssemblyInfo.cs
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.dll
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.pdb
+/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/obj/Debug/netcoreapp3.1/VariablesExercise.genruntimeconfig.cache

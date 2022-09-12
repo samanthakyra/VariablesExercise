@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJt9vWHswQpH2E50xSPoQyr7sxVX2+oKFvmYOx8UCIRJ/qLMyR9HDaQCYYqBKVvRET1hPU9BsyP9T36jDslYAQ==",
+  "success": true,
+  "projectFilePath": "/Users/samanthakyramendoza/Desktop/repos/VariablesExercise/VariablesExercise/VariablesExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/samanthakyramendoza/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/samanthakyramendoza/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/samanthakyramendoza/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
